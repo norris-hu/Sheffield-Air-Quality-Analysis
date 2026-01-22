@@ -13,3 +13,17 @@ The following R libraries were utilized to process data, perform statistical ana
 | **ggplot2** | **Visualization.** Used to create diurnal profile plots, boxplots for spatial comparison, and bar charts for feature importance and coefficient analysis. | Steps 6, 7, 8 |
 | **randomForest** | **Machine Learning.** Implementation of the Random Forest algorithm to identify non-linear relationships and "Extreme Event" triggers (RQ2). | Step 8 |
 | **gridExtra** | **Plot Arrangement.** A utility tool used to combine multiple plots (e.g., Sensitivity Matrices) into a single grid layout for reporting. | Step 8 |
+
+---
+
+## 📊 Module 2: IJC445 - Data Visualisation Project
+
+**Status:** *Coming Soon (Spring Semester)*
+
+This section is a designated placeholder for the upcoming IJC445 coursework.
+The project will utilise the same air quality dataset to explore advanced visualisation theories and design principles.
+
+* **Project Goal:** To effectively communicate findings through interactive and static visualisations.
+* **Link:** [Link will be updated upon module commencement]
+
+---
